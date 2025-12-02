@@ -37,11 +37,8 @@ My expertise lies in orchestrating microservices with <code>NestJS</code> and cr
 * ⚡ **Fun fact:** I can debug a race condition faster than I can finish my coffee.
 
     </td>
-    <td width="50%" align="center" valign="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=bubucarx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&count_private=true&include_all_commits=true" height="100%" width="100%"/>
-    </td>
+
   </tr>
-</table>
 </div>
 <div align="center">
   <h3>🛠️ The Arsenal</h3>
