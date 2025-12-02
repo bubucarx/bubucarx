@@ -2,13 +2,13 @@
 <h3 align="center">🚀 Mobile Developer | Flutter & Dart Specialist</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+  <a href="www.linkedin.com/in/pedro-vinicius-7b58a3327" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:seuemail@email.com">
+  <a href="mailto:pedassaa@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://seuportfolio.com">
+  <a href=">
     <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
@@ -67,9 +67,9 @@
 
 ## 📫 Contact Me
 
-📧 Email: **seuemail@email.com**  
-💼 LinkedIn: **linkedin.com/in/seu-linkedin**  
-🌐 Portfolio: **seuportfolio.com**
+📧 Email: **pedassaa@email.com**  
+💼 LinkedIn: **www.linkedin.com/in/pedro-vinicius-7b58a3327**  
+🌐 Portfolio: ****
 
 ---
 
