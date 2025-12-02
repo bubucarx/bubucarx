@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight11200&size=32&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=1200&lines=Hello,+World!+I'm+Pedro+Vinicius;Mobile+Architect+%26+Flutter+Expert;Fullstack+Dev+(Node.js+%2B+NestJS);Obsessed+with+Clean+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=1200&lines=Hello,+World!+I'm+Pedro+Vinicius;Mobile+Architect+%26+Flutter+Expert;Fullstack+Dev+(Node.js+%2B+NestJS);Obsessed+with+Clean+Architecture" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -18,29 +18,31 @@
 
 <div align="center">
 <table>
-<tr>
-<td width="95%" align="left" valign="top">
+  <tr>
+    <td width="50%" align="left" valign="top">
 
-### ⚡ About Me
+<h3>⚡ About Me</h3>
 
-I am a software engineer passionate about transforming complex requirements into fluid, high-performance mobile experiences.
+> <i>"I build scalable architectures, not just apps."</i>
 
-My focus goes beyond writing code; I build **scalable architectures**. Whether orchestrating microservices with **NestJS** or creating "pixel-perfect" interfaces with **Flutter**, I prioritize maintainability and performance.
+Passionate Software Engineer focused on transforming complex requirements into **fluid, high-performance mobile experiences**.
 
-* 🔭 **Currently working on:** Advanced enterprise RH systems.
-* 🧠 **Core Philosophy:** Clean Code, SOLID & TDD.
-* 🧩 **Interests:** System Design, State Management (Riverpod/Bloc), and DevOps.
+My expertise lies in orchestrating microservices with <code>NestJS</code> and crafting pixel-perfect interfaces with <code>Flutter</code>.
+
+<br/>
+
+* 🔭 **Current Work:** Advanced Enterprise **RH Systems**.
+* 🧠 **Philosophy:** Clean Code, SOLID & TDD.
+* 🧩 **Focus:** System Design, State Management (<code>Riverpod</code>), and DevOps.
 * ⚡ **Fun fact:** I can debug a race condition faster than I can finish my coffee.
 
-</td>
-<td width="45%" align="center" valign="center">
-
-
-</td>
-</tr>
+    </td>
+    <td width="50%" align="center" valign="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=bubucarx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&count_private=true&include_all_commits=true" height="100%" width="100%"/>
+    </td>
+  </tr>
 </table>
 </div>
-
 <div align="center">
   <h3>🛠️ The Arsenal</h3>
   <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,nest,express,mongo,postgres,ts,docker,git,linux,vscode&theme=dark&perline=12" />
