@@ -35,7 +35,7 @@
 </td>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_DO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&count_private=true" height="160em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bubucarx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&count_private=true" height="160em"/>
 
 </td>
 </tr>
@@ -45,7 +45,7 @@
 <div align="center">
   <h3>🏆 Achievements</h3>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO_DO_GITHUB&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="800" />
+    <img src="https://github-profile-trophy.vercel.app/?username=bubucarx&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="800" />
   </a>
 </div>
 
@@ -62,17 +62,17 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_DO_GITHUB&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="170em" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bubucarx&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="170em" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_DO_GITHUB&theme=tokyonight&hide_border=true&background=1a1b27" height="170em" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=bubucarx&theme=tokyonight&hide_border=true&background=1a1b27" height="170em" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO_DO_GITHUB&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=ffffff&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bubucarx&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
 <br/>
