@@ -19,7 +19,7 @@
 <div align="center">
 <table>
 <tr>
-<td width="55%" align="left" valign="top">
+<td width="95%" align="left" valign="top">
 
 ### ⚡ About Me
 
