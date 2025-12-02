@@ -35,11 +35,6 @@ My expertise lies in orchestrating microservices with <code>NestJS</code> and cr
 * 🧠 **Philosophy:** Clean Code, SOLID & TDD.
 * 🧩 **Focus:** System Design, State Management (<code>Riverpod</code>), and DevOps.
 * ⚡ **Fun fact:** I can debug a race condition faster than I can finish my coffee.
-
-    </td>
-
-  </tr>
-</div>
 <div align="center">
   <h3>🛠️ The Arsenal</h3>
   <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,nest,express,mongo,postgres,ts,docker,git,linux,vscode&theme=dark&perline=12" />
