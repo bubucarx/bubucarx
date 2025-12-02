@@ -35,7 +35,6 @@ My focus goes beyond writing code; I build **scalable architectures**. Whether o
 </td>
 <td width="45%" align="center" valign="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bubucarx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&count_private=true&include_all_commits=true" height="180em"/>
 
 </td>
 </tr>
